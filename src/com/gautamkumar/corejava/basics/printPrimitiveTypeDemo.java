@@ -10,19 +10,9 @@ package com.gautamkumar.corejava.basics;
  * @author Gautam Kumar
  * @since 2026-09-19
  */
-public class App {
+public class printPrimitiveTypeDemo {
 
     public static void main(String[] args) {
-        printGreeting();
-        printPrimitiveTypeDemo();
-    }
-
-    private static void printGreeting() {
-        System.out.println("Hello, World!");
-        System.out.println();
-    }
-
-    private static void printPrimitiveTypeDemo() {
         byte age = 25;
         short year = 2026;
         int population = 1_000_000;
