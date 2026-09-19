@@ -1,4 +1,4 @@
-package com.gautamkumar.corejava;
+package com.gautamkumar.corejava.basics;
 
 /**
  * Demonstrates the eight primitive data types available in Java.
